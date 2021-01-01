@@ -1,12 +1,12 @@
-# Key Value Data Store
+### Key Value Data Store
 
 This is a file-based key-value data store that supports the bsaic CRD(create, read and delete) operations.
 
-# Installation
+### Installation
 
 Just include [keyValueDataStore.py](keyValueDataStore.py) in your program directory and import it in your program.
 
-# How to use
+### How to use
 
 Firstly, instantiate the class and create an object.
 
